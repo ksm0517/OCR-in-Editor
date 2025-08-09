@@ -3,7 +3,7 @@
 ### CV-07 컴퓨터구조 :computer: 
 |[김성민](https://github.com/ksm0517)|[박지민](https://github.com/ddeokbboki-good)|[박진형](https://github.com/ppjh8263)|[심세령](https://github.com/seryoungshim17)|[윤하정](https://github.com/YHaJung)|
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://ifh.cc/g/puHQTP.jpg" width="120" height="120"> | <img src="https://user-images.githubusercontent.com/82632580/147220995-f83623c7-da26-404f-ad07-d3da19928e65.jpg" width="120" height="120">| <img src="https://user-images.githubusercontent.com/82632580/147216442-3d820ddd-7a04-4c1c-b717-0bab4b3aed0b.jpg" width="120" height="120"> |<img src="https://user-images.githubusercontent.com/82632580/147216194-d7100c74-e273-465a-815c-85f8032f4be0.png" width="120" height="120">| <img src="https://user-images.githubusercontent.com/82632580/147216286-e1e30025-9dac-4fa8-b931-cc663a2d0ca1.jpg" width="120" height="120">| 
+| <img src="https://github.com/user-attachments/assets/7d670d2e-4edd-46e5-8bd9-1917396949bd" width="120" height="120"> | <img src="https://user-images.githubusercontent.com/82632580/147220995-f83623c7-da26-404f-ad07-d3da19928e65.jpg" width="120" height="120">| <img src="https://user-images.githubusercontent.com/82632580/147216442-3d820ddd-7a04-4c1c-b717-0bab4b3aed0b.jpg" width="120" height="120"> |<img src="https://user-images.githubusercontent.com/82632580/147216194-d7100c74-e273-465a-815c-85f8032f4be0.png" width="120" height="120">| <img src="https://user-images.githubusercontent.com/82632580/147216286-e1e30025-9dac-4fa8-b931-cc663a2d0ca1.jpg" width="120" height="120">| 
 
 ## 🎬Project 소개
 - 편집 툴에 영상을 넣고 **"Send Current Frame"** 버튼을 눌러주면 선택한 프레임 속 **텍스트를 자동번역** 해주는 프로그램
